@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f3f1ff;
+}
+
+.brand-logo {
+    width: 40px;
+}
+
+.profile {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.nav-item {
+    margin: auto 10px;
+}
+
+.player-section {
+    border-bottom: 2px solid #D1D1D1;
+}
+
+.custom-width {
+    max-width: 870px;
+}
+
+.player-section h2 {
+    color: #562EFF;
+}
+
+.player-img {
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+}
+
+.player {
+    padding: 10px;
+}
+
+.player p {
+    padding-left: 15px;
+}
+
+.blog-section h2 {
+    color: #562EFF;
+}
+
+.blog-img {
+    width: 224px;
+    height: 127px;
+    border-radius: 10px;
+}
+
+.blog {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+.blog-desc {
+    padding: 10px;
+}
+
+.blog-desc h3 {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.blog-desc p {
+    color: #9f9f9f;
+}
+
+.blog-desc p span {
+    color: #562EFF;
+}
+
+.course-section h2 {
+    color: #562EFF;
+}
+
+.star, .clock {
+    width: 20px;
+    height: 20px;
+    padding: 2px;
+}
+
+.pink-bg {
+    background-color: #ff4a5f78;
+    border-radius: 15px;
+    padding: 3px 20px;
+}
+
+.bdr-rad {
+    border-radius: 14px;
+}
